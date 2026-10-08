@@ -1,4 +1,4 @@
-// Inserção no Início
+// Inserção no Início - O(1)
 
 int inserirInicio(No **inicio, int valor) {
     // 1. Alocar novo nó
